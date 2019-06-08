@@ -1,0 +1,25 @@
+target
+work
+
+# IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea
+out
+
+# eclipse project file
+.settings
+.classpath
+.project
+build
+
+# VSCode workspace file
+*.code-workspace
+
+# vim
+*~
+*.swp
+
+# OS X
+.DS_Store
